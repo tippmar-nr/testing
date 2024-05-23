@@ -1,1 +1,7 @@
-asdfasd fasdf asdf asdfg 
+public static class Testing
+{
+    public static void DoIt()
+    {
+
+    }
+}
